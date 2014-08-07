@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ACOUserInputController : UITableViewController
+@interface QSSUserInputController : UITableViewController
 
 @end
