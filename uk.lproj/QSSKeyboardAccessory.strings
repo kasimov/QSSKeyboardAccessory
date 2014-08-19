@@ -1,0 +1,10 @@
+/* 
+  QSSKeyboardAccessory.strings
+  autocarma
+
+  Created by Maksim Kasimov on 8/19/14.
+  Copyright (c) 2014 autocarma.org. All rights reserved.
+*/
+"Previous" = "Назад";
+"Next" = "Вперед";
+"Done" = "Готово";
